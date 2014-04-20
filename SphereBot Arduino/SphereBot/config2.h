@@ -1,4 +1,4 @@
-#define BAUDRATE 256000
+#define BAUDRATE 115200
 
 /*
  * PINS
